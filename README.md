@@ -1,2 +1,3 @@
 # coursera-RR
-Reproducible research
+Reproducible Research
+=====================
